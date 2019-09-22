@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="quizappstyle.css">
+</head>
+<body onload="qtimer()">
+    <div id="quizContainer" class="quiz">
+        <h2 id="timer"></h2>
+        <h1 id="question"></h1>
+        <label> <input type="radio" value="1" name="option"><span id="opt1"></span></label>
+        <br>
+        <label> <input type="radio" value="2" name="option" ><span id="opt2"></span></label>
+        <br>
+        <label> <input type="radio" value="3" name="option" ><span id="opt3"></span></label>
+        <br>
+        <label> <input type="radio" value="4" name="option" ><span id="opt4"></span></label>
+        <br>
+        <button onclick="next()" id="next">Next Question</button>
+    </div>
+    <div id="resultContainer" style="display:none">
+        <h1 id="score"></h1>
+        <h2 id="scoreresult"></h2>
+    </div>
+</body>
+<script src="qjs.js"></script>
+</html>

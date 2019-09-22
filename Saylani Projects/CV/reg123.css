@@ -1,0 +1,57 @@
+body{
+    margin: 0px;
+}
+#main{
+width: 718px;
+height: 561px;
+
+background-image: url("imac12.jpg");
+padding:50px 315px 50px 315px; 
+background-attachment: fixed;
+overflow: hidden;
+}
+#mid{
+   
+    width:700px;
+    height: 700px; 
+    
+}
+#form{
+    
+    margin: 0px 100px 0px 100px;
+    height: 700px;
+    width: 500px;
+    
+}
+p{
+    margin-bottom: 5px;
+    color: white;
+    font-size: 30px;
+}
+fieldset{
+    border-radius: 15px;
+}
+.tb{
+    height: 35px;
+    width: 300px;
+    font-size:25px; 
+    border-radius:10px; 
+}
+.btn{
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+    background-color: #007bff;;
+    border-color: #6c757d;
+    float: right;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+
+}
+h1{
+    color: wheat;
+}
+a{
+    font-size: 20px;
+}

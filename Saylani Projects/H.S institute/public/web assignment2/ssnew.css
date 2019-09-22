@@ -1,0 +1,41 @@
+#page{
+    height: 300%;
+    
+    margin: 0;
+    padding: 0;
+    background-color: violet;
+    
+
+}
+#header{
+    background-color: cornflowerblue;
+    padding:0;
+    margin: 0;
+    height:200px;
+    width: 200px; 
+    
+}
+#h{
+    vertical-align:super;
+    text-align: center;
+    display:inline; }
+
+ul{
+    text-align: center;
+}
+li{
+    padding: 20px 20px 20px 20px;
+    display: inline;
+    text-decoration: none;
+    list-style: none;
+}
+
+#top{
+    text-align: center;
+    height:20px;
+
+}
+
+#foot{
+    text-align: center;
+}

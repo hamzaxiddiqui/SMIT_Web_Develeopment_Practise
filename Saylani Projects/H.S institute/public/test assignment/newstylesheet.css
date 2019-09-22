@@ -1,0 +1,52 @@
+#top-div{
+    background-color:cornflowerblue;
+    margin= 0px;
+    padding= 0px;
+     
+}
+#top-bar ul{
+    color:black;
+    display:block;
+    list-style:none; 
+    padding:0px;
+    margin:0px;
+    overflow:hidden;
+    float:center;
+    text decoration: none;    
+}
+#top-bar li{
+    font-family:arial;
+    font-size:20;
+    color:black;  
+    display:inline;
+    padding: 70px 20px 20px 20px; 
+    list-style:none; 
+text-decoration:none;
+text-align: center;
+}
+#b-div{
+    text-align: auto;
+    background-color:palevioletred;
+    padding: 0px;
+    margin: 0px;
+
+}
+#bottom-bar ul{
+    display:block;
+}
+#bottom-bar li{
+    list-style: none;
+    text-align: center;
+}
+#bb-bar{
+    background-color: darkslategray;
+}
+#bbottom-bar ul{
+    display:block;
+
+}
+#bbottom-bar li{
+    display: inline;
+    list-style: none;
+    text-align: center;
+}

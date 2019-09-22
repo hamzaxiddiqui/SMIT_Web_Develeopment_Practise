@@ -1,0 +1,31 @@
+{
+    "name": "Daily News ",
+    "short_name": "Daily News",
+    "icons": [{
+        "src": "icon/dnlogo.jpg",
+        "sizes": "128x128",
+        "type": "image/jpg"
+    }, {
+        "src": "icon/dnlogo.jpg",
+        "sizes": "144x144",
+        "type": "image/jpg"
+    }, {
+        "src": "icon/dnlogo.jpg",
+        "sizes": "152x152",
+        "type": "image/jpg"
+    }, {
+        "src": "icon/dnlogo.jpg",
+        "sizes": "192x192",
+        "type": "image/jpg"
+    }, {
+        "src": "icon/dnlogo.jpg",
+        "sizes": "512x512",
+        "type": "image/jpg"
+    }
+    ],
+    "start_url": "index.html",
+    "gcm_sender_id": "103953800507",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "#28A745"
+    }

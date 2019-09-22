@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>ToDo</title>
+    <script src="app.js"> </script>
+    <link rel="stylesheet" href="stylesheet.css">   
+
+</script>
+</head>
+<body>
+<center>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+    <div id="maindiv">
+        <h1>ToDoApp</h1>
+            <input type="text" id="val" > 
+            <input type="button" onclick="add()" value="ADD" id="btnadd" class="btn">
+            <input type="button" onclick="del()" value="Delete All" id="btndel" class="btn">
+            <div>
+                <ul id="list">
+
+                </ul>
+                <h1>#Hamza_Siddiqui</h1>
+            </div>
+    </div>
+    </center>   
+</body>
+<script>
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('./js/sw.js')
+            .then(function () {
+                console.log('Service Worker Registered');
+            });
+    }
+</script>
+</html>

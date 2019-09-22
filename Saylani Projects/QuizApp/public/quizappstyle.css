@@ -1,0 +1,30 @@
+body{
+    background-image: url("forquiapp1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1,h2{
+    color: white;
+}
+.quiz,#score{
+    margin: 200px 200px 0px 500px;
+}
+button{
+    border-radius: 6px;
+    height: 30px;
+    font-size:15px; 
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+span{
+    font-size: 20px;
+    color: white;
+}
+#next{
+    margin-top: 30px;
+     
+}
+#id{
+    margin: 200px 500px 0px 500px;
+}
+

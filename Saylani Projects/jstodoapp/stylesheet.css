@@ -1,0 +1,33 @@
+body{
+    background-image: url("imac12.jpg");
+}
+#maindiv{
+    background-color: darkslategrey;
+    height: 300px;
+    width: 600px;
+    padding:50px 50px 50px 50px; 
+    border-radius: 30px;
+}
+.btn{
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+}
+#val{
+    height: 50px;
+    width: 300px;
+    border-radius: 5px;
+    font-size: 30px;
+}
+#btnadd{
+    background-color: green;
+}
+#btndel{
+    background-color: red;
+}
+h1{
+    color: whitesmoke;
+}

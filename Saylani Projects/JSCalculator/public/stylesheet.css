@@ -1,0 +1,152 @@
+body{
+    
+    background-color: black;
+}
+#cal{
+    background-color: #5DADE2;
+    
+     border: red solid 5px;
+     height: 300px;
+     width: 230px;
+     padding: 10px 30px 50px 30px; 
+     align-content: center;
+     border-radius: 10px;
+}
+
+#disp{
+height: 50px;
+width: 200px;
+text-align: right;
+border: 10px #D5DBDB solid; 
+border-radius: 5px;
+font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+#btn7{
+    height: 30px;
+    width: 57.5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: 5px;
+
+}
+#btn8{
+    height: 30px;
+    width: 57.5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+#btn9{
+    height: 30px;
+    width: 57.5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#btnadd{
+    height: 30px;
+    width: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#btn4{
+    height: 30px;
+    width: 57.5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: 5px;
+
+}
+#btn5{
+    height: 30px;
+    width: 57.5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#btn6{
+    height: 30px;
+    width: 57.5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#btnsubt{
+    height: 30px;
+    width: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#btn1{
+    height: 30px;
+    width: 57.5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: 5px;
+}
+#btn2{
+    height: 30px;
+    width: 57.5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#btn3{
+    height: 30px;
+    width: 57.5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#btndiv{
+    height: 30px;
+    width: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#btn0{
+    height: 30px;
+    width: 57.5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+#btndot{
+    height: 30px;
+    width: 57.5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#btnC{
+    height: 30px;
+    width: 57.5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#btnmult{
+    height: 30px;
+    width: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+}
+#btneq{
+    height: 30px;
+    width: 119px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#btnperc{
+    height: 30px;
+    width: 97px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: 5px;
+}
+.btns{
+    border-radius: 6px;
+    background-color:#517783;
+    border-color: brown;
+}
+.btns:hover{
+    background-color: #AF557B;
+}
